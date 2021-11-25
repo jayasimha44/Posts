@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://jayasimha09:jayasimha09@posts.k0f0j.mongodb.net/AllPosts?retryWrites=true&w=majority",
+  "JWT": "JWT_SECRET"
+}
